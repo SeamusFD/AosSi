@@ -1,0 +1,10 @@
+<AssetMetadata version="0" type="Texture" guid="76c1a907-7967-16f7-1a42-b0fcfeaa6599" source="caleonvalley.tif">
+ <Files>
+  <File path="caleonvalley.dds"/>
+ </Files>
+ <Details>
+  <Detail name="width">513</Detail>
+  <Detail name="height">513</Detail>
+  <Detail name="mipCount">1</Detail>
+ </Details>
+</AssetMetadata>

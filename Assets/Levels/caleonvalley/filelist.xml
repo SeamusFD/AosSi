@@ -1,0 +1,6 @@
+<download name="CaleonValley" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="2845990" md5="e4aa321e2e4cc03dee60e12ed9ebbe65"/>
+ </files>
+</download>
